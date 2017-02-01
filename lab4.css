@@ -1,0 +1,28 @@
+.spArts {
+  font-family:'Play', sans-serif;
+  color: #aa1724;
+}
+
+div img {
+  width: 35%;
+  height: 35%;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.panel {
+  margin-left: 20px;
+  margin-right: 20px;
+  border-width: medium;
+  background-color: rgba(150, 112, 118, 0.91);
+  border-color: black;
+  border-style: outset;
+}
+
+.panel:hover {
+  border-color: darkred;
+}
+
+body {
+  background-image: url(http://wallpapersinhd.in/wp-content/uploads/ktz/CSS-Background-images-3-Dark-Abstract-Texture-315p3faatzz6iskhleob2i.jpg);
+}
