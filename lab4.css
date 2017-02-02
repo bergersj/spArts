@@ -1,6 +1,5 @@
-.spArts {
+.spArts, h3, .footer {
   font-family:'Play', sans-serif;
-  color: #aa1724;
 }
 
 div img {
@@ -25,4 +24,14 @@ div img {
 
 body {
   background-image: url(http://wallpapersinhd.in/wp-content/uploads/ktz/CSS-Background-images-3-Dark-Abstract-Texture-315p3faatzz6iskhleob2i.jpg);
+}
+
+.footer {
+  background-color: rgba(150, 112, 118, 0.91);
+  border-color: black;
+  border-style: outset;
+  border-radius: 5px;
+  margin: 20px;
+  text-align: center;
+  text-decoration: none;
 }
